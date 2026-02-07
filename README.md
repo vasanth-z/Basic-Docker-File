@@ -55,3 +55,8 @@ Here `t` represents to create new name and `.` dot at the last represent the loc
 In terminal enter this command:
 
 ``docker run [YOUR DOCKERFILE NAME]``
+
+OUTPUT:
+
+<img width="1072" height="141" alt="image" src="https://github.com/user-attachments/assets/28a1fd9b-b79a-4712-ae03-8e60e747e869" />
+
